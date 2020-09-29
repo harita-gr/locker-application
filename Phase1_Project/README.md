@@ -51,4 +51,5 @@ Through CLI
      
 ## Author
 Harita Ravindranath
-XYZ Software Solutions
+
+*XYZ Software Solutions*
