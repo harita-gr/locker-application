@@ -34,7 +34,7 @@ Based on customer requirements following key features are supported in this prot
 Through Eclipse IDE
 1. Clone the code from GitHub
     ````
-    git clone hjjjjjjjjjjj
+    git clone https://github.com/haritaToboso/SimpliLearn-FSD-PhaseProjects.git
     ````
 2. Open the folder containg code as Java Project via Eclipse
 3. Go to locker/ApplicationMain.java and select: 
