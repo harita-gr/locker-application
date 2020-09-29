@@ -12,6 +12,10 @@ Based on customer requirements following key features are supported in this prot
   - Delete Files
   - Search Files
 
+Flow Chart is given below for application workflow reference:
+
+![Flow Chart](https://user-images.githubusercontent.com/61909695/94599739-84c4ff00-02ae-11eb-8025-7a9ae3cc1ee6.jpg)
+
 ## Tools & Technnology
 - Programming Language: Core Java.
   The software is completely developed in Java. Key concepts implemented are:
