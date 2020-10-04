@@ -19,8 +19,8 @@ public class SearchFile {
 			System.out.println("File found in the Root directory");
 		}
 		else
-		{
-			System.out.println("File does not exist!");
+		{ 
+			System.out.println("File does not exist! Please try again with correct filename and check for cases!!");
 		}		
 	}
 		

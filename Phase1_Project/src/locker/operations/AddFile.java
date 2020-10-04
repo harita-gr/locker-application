@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class AddFile {
 	
-	final static File folder= new File ("src/phase1/Root");
+	final static File folder= new File ("src/locker/Root");
 	static Scanner s=new Scanner(System.in);
 	
 	public static void addFile() {

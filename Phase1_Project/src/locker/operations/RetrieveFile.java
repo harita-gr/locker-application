@@ -8,12 +8,13 @@ import java.util.List;
 
 public class RetrieveFile {
 	
-	final static File folder= new File ("src/phase1/Root");
-	static File[] listOfFiles = folder.listFiles();
-	static List<String> fileList;
+	final static File folder= new File ("src/locker/Root");
+	static File[] listOfFiles = null;
+	static List<String> fileList=null;
 	
 	public static void retrieveFiles()
 	{	
+		listOfFiles = folder.listFiles();
 		fileList = new ArrayList<String>();
 				
 		for (int i = 0; i < listOfFiles.length; i++) {
@@ -33,6 +34,7 @@ public class RetrieveFile {
 	
 	public static List<String> returnfileList()
 	{
+		listOfFiles = folder.listFiles();
 		fileList = new ArrayList<String>();
 		
 		for (int i = 0; i < listOfFiles.length; i++) {
