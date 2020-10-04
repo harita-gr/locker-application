@@ -2,7 +2,7 @@
 
 ![imgingest-2580920386312222642](https://user-images.githubusercontent.com/61909695/94593598-ef723c80-02a6-11eb-9a58-3273012e5bd1.png)
 
-This is a prototye Locker application developed for **Lockedme.com** , a product of Company Lockers Pvt. Ltd. 
+This is a prototye File Management Locker application developed for **Lockedme.com** , a product of Company Lockers Pvt. Ltd. 
 
 ## About the application
 The application is designed to assist the user by providing a locker service for storing their data files hence ensuring privacy and security. 
