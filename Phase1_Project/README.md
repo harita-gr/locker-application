@@ -39,7 +39,7 @@ Flow Chart is given below for application workflow reference:
 Through Eclipse IDE
 1. Clone the code from GitHub
     ````
-    git clone https://github.com/haritaToboso/SimpliLearn-FSD-PhaseProjects.git
+    git clone https://github.com/haritaToboso/SimpliLearn-FSD-PhaseEndProjects.git
     ````
 2. Open the folder containg code as Java Project via Eclipse
 3. Go to src/locker/application/ApplicationMain.java and select: 
