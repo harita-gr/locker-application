@@ -19,9 +19,10 @@ Flow Chart is given below for application workflow reference:
 ## Tools & Technnology
 - Programming Language: Core Java.
   The software is completely developed in Java. Key concepts implemented are:
-    1. Collections - List as a data structure
+    1. Collections - List as a data structure for searching and sorting
     2. Exceptions
-    3. File Handling    
+    3. File Handling
+    4. Loops and Control statements - Do..while Loop, Switch statements
  - IDE: Eclipse
  - Version Control: Git and GitHub
  - Project Management and Sprint Planning: JIRA
@@ -41,19 +42,10 @@ Through Eclipse IDE
     git clone https://github.com/haritaToboso/SimpliLearn-FSD-PhaseProjects.git
     ````
 2. Open the folder containg code as Java Project via Eclipse
-3. Go to locker/ApplicationMain.java and select: 
+3. Go to src/locker/application/ApplicationMain.java and select: 
      Run As -> Java Application
-
-Through CLI
-1. Clone the code from GitHub
-2. Navigate to the folder location via CLI
-3. Run:
-      ```
-      javac ApplicationMain.java
-      java ApplicationMain
-      ```
      
 ## Author
 Harita Ravindranath
 
-*XYZ Software Solutions*
+*Company Lockers Private Ltd.*
