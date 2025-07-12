@@ -1,5 +1,4 @@
-## SimpliLearn-FSD-PhaseProjects
-# Phase end projects
+## SimpliLearn| Java FSD Course | Phase-end Project 1
 
 **1. Phase 1 - Locker Application**
 
